@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppViagem</string>
+    <string name="desc_viagem">Clique na imagem do destino para saber um pouco mais sobre!</string>
+    <string name="btnStart">Vamos viajar!</string>
+    <string name="btnDetails">Detalhes</string>
+    <string name="btnShare">Compartilhar</string>
+    <string name="brasil">Brasil</string>
+    <string name="franca">França</string>
+    <string name="argentina">Argentina</string>
+    <string name="japao">Japão</string>
+    <string name="brasilDesc">Muitos são os fatores que englobam organizar uma viagem pelo Brasil de sucesso: a série de documentos necessários, a escolha do transporte, o tipo de passeio, e claro, os cuidados que devem ser analisados para cada situação.</string>
+    <string name="francaDesc">Para tirar o máximo proveito da França, é essencial se conectar com a cultura. Vá em um paseeio para conhecer vinícolas, jogue bocha com os habitantes locais e faça um esforço para entender o que importa para os franceses sobre o seu país.</string>
+    <string name="japaoDesc">Cada canto de Tóquio é impressionante. Em meio à variedade de bairros movimentadíssimos e uma rede de metrô e trens que se conecta a cidade inteira, você encontra construções históricas.</string>
+    <string name="argentinaDesc">Vai fazer turismo na Argentina? Este belo destino oferece muitas atrações além do tradicional roteiro a Buenos Aires.</string>
+
+</resources>
